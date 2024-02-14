@@ -30,7 +30,7 @@ char	**add_list_split(char **av, t_stack *stack)
 
 	list = ft_split(av[1], ' ');
 	stack->split_count = 1;
-	stack->str_count = ft_strcount(av[1], 32);
+	stack->str_count = ft_strcount(av[1], ' ');
 	return (list);
 }
 
