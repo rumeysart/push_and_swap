@@ -1,6 +1,6 @@
 # push and swap
 
-In this project, we are tasked with sorting random numbers using a limited set of commands. The goal is to achieve this sorting with the fewest possible operations.
+In this project, I am tasked with sorting random numbers using a limited set of commands. The goal is to achieve this sorting with the fewest possible operations.
 
 # How to Use
 Clone the repository: 
